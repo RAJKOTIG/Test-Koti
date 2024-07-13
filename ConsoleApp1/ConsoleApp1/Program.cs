@@ -10,18 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("RAJKOTI  GU");
-            Console.WriteLine("Hi world");
-            Console.WriteLine("Hi world");
-            Console.WriteLine("Hi world");
-            Console.WriteLine("Hi world");
-            Console.WriteLine("Hi world");
-            Console.WriteLine("Hi world");
-            Console.WriteLine("Hi world");
-            Console.WriteLine("Hi world");
-            Console.WriteLine("Hi world");
-            Console.WriteLine("Hi world");
-            Console.WriteLine("Hi world");
+            Console.WriteLine("RAJKOTI  GU"); 
             Console.ReadLine();
         }
     }
